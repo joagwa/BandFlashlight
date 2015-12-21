@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="BandFlashlight\BandFlashlight.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.CB5A23TGB0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BandFlashlight\MainActivity.cs">
+    <Files>
+      <File FileName="BandFlashlight\MainActivity.cs" Line="30" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\joagwa\Documents\Projects\BandFlashlight\BandFlashlight\MainActivity.cs" line="43" column="1" />
+      <Breakpoint file="C:\Users\joagwa\Documents\Projects\BandFlashlight\BandFlashlight\MainActivity.cs" line="49" column="1" />
+      <Breakpoint file="C:\Users\joagwa\Documents\Projects\BandFlashlight\BandFlashlight\MainActivity.cs" line="73" column="1" />
+      <Breakpoint file="C:\Users\joagwa\Documents\Projects\BandFlashlight\BandFlashlight\MainActivity.cs" line="38" column="1" />
+      <Breakpoint file="C:\Users\joagwa\Documents\Projects\BandFlashlight\BandFlashlight\MainActivity.cs" line="33" column="5" />
+      <Breakpoint file="C:\Users\joagwa\Documents\Projects\BandFlashlight\BandFlashlight\MainActivity.cs" line="37" column="30" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
